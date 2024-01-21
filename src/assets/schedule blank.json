@@ -1,0 +1,77 @@
+{
+    "name": "",
+    "information": "",
+    "schedule": [
+    
+        [
+            {
+                "weekDay": "Montag",
+                "date": "",
+                "uniDay": true,
+                "lessons": []
+            },
+            {
+                "weekDay": "Dienstag",
+                "date": "",
+                "uniDay": true,
+                "lessons": []
+            },
+            {
+                "weekDay": "Mittwoch",
+                "date": "",
+                "uniDay": true,
+                "lessons": []
+            },
+            {
+                "weekDay": "Donnerstag",
+                "date": "",
+                "uniDay": true,
+                "lessons": []
+            },
+            {
+                "weekDay": "Freitag",
+                "date": "",
+                "uniDay": true,
+                "lessons": []
+            }
+
+        ],
+
+                [
+            {
+                "weekDay": "Montag",
+                "date": "",
+                "uniDay": true,
+                "lessons": []
+            },
+            {
+                "weekDay": "Dienstag",
+                "date": "",
+                "uniDay": true,
+                "lessons": []
+            },
+            {
+                "weekDay": "Mittwoch",
+                "date": "",
+                "uniDay": true,
+                "lessons": []
+            },
+            {
+                "weekDay": "Donnerstag",
+                "date": "",
+                "uniDay": true,
+                "lessons": []
+            },
+            {
+                "weekDay": "Freitag",
+                "date": "",
+                "uniDay": true,
+                "lessons": []
+            }
+
+        ]
+
+
+    ]
+
+}

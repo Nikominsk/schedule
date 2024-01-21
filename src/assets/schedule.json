@@ -1,0 +1,185 @@
+{
+    "name": "",
+    "information": "",
+    "schedule": {
+
+        "week1": [
+            {
+                "weekDay": "Montag",
+                "date": "11.02",
+                "uniDay": true,
+                "lessons": [
+                    {
+                        "startTime": "8:00",
+                        "endTime": "9:00",
+                        "subjectName": "Subject-Name A",
+                        "subjectCategory": "Subject-Category",
+                        "subjectInformation": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis cum ea quae consequatur obcaecati repellat rem accusantium commodi minima repudiandae hic aperiam tempora",
+                        "subjectLinkInformation": [
+                            {
+                                "information": "Der Link führt zu Goodle",
+                                "url": "wwww.google.com"
+                            },
+                            {
+                                "information": "Der Link führt zu einem anderen Google",
+                                "url": "wwww.google.com"
+                            }
+                        ]
+                    },
+                    {
+                        "startTime": "9:00",
+                        "endTime": "11:00",
+                        "subjectName": "Subject-Name B",
+                        "subjectCategory": "Subject-Category",
+                        "subjectInformation": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis cum ea quae consequatur obcaecati repellat rem accusantium commodi minima repudiandae hic aperiam tempora",
+                        "subjectLinkInformation": [
+                            {
+                                "information": "Der Link führt zu Goodle",
+                                "url": "wwww.google.com"
+                            }
+                        ]
+                    },
+                    {
+                        "startTime": "11:00",
+                        "endTime": "12:00",
+                        "subjectName": "Subject-Name C",
+                        "subjectCategory": "Subject-Category",
+                        "subjectInformation": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis cum ea quae consequatur obcaecati repellat rem accusantium commodi minima repudiandae hic aperiam tempora",
+                        "subjectLinkInformation": [
+                            {
+                                "information": "Der Link führt zu Goodle",
+                                "url": "wwww.google.com"
+                            }
+                        ]
+                    },
+                    {
+                        "startTime": "12:00",
+                        "endTime": "16:00",
+                        "subjectName": "Subject-Name D",
+                        "subjectCategory": "Subject-Category",
+                        "subjectInformation": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis cum ea quae consequatur obcaecati repellat rem accusantium commodi minima repudiandae hic aperiam tempora",
+                        "subjectLinkInformation": [
+                            {
+                                "information": "Der Link führt zu Goodle",
+                                "url": "wwww.google.com"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekDay": "Dienstag",
+                "date": "12.02",
+                "uniDay": false,
+                "lessons": [
+                    {
+                        "startTime": "8:30",
+                        "endTime": "9:00",
+                        "subjectName": "Subject-Name A",
+                        "subjectCategory": "Subject-Category",
+                        "subjectInformation": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis cum ea quae consequatur obcaecati repellat rem accusantium commodi minima repudiandae hic aperiam tempora",
+                        "subjectLinkInformation": [
+                            {
+                                "information": "Der Link führt zu Goodle",
+                                "url": "wwww.google.com"
+                            }
+                        ]
+                    },
+                    {
+                        "startTime": "9:30",
+                        "endTime": "11:00",
+                        "subjectName": "Subject-Name B",
+                        "subjectCategory": "Subject-Category",
+                        "subjectInformation": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis cum ea quae consequatur obcaecati repellat rem accusantium commodi minima repudiandae hic aperiam tempora",
+                        "subjectLinkInformation": [
+                            {
+                                "information": "Der Link führt zu Goodle",
+                                "url": "wwww.google.com"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekDay": "Mittwoch",
+                "date": "13.02",
+                "uniDay": false,
+                "lessons": []
+            },
+            {
+                "weekDay": "Donnerstag",
+                "date": "14.02",
+                "uniDay": true,
+                "lessons": []
+            },
+            {
+                "weekDay": "Freitag",
+                "date": "15.02",
+                "uniDay": false,
+                "lessons": []
+            }
+
+        ],
+        "week2": [
+            {
+                "weekDay": "Montag",
+                "date": "18.02",
+                "uniDay": false,
+                "lessons": [
+                    {
+                        "startTime": "10:30",
+                        "endTime": "11:00",
+                        "subjectName": "Subject-Name A",
+                        "subjectCategory": "Subject-Category",
+                        "subjectInformation": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis cum ea quae consequatur obcaecati repellat rem accusantium commodi minima repudiandae hic aperiam tempora",
+                        "subjectLinkInformation": [
+                            {
+                                "information": "Der Link führt zu Goodle",
+                                "url": "wwww.google.com"
+                            }
+                        ]
+                    },
+                    {
+                        "startTime": "11:30",
+                        "endTime": "12:00",
+                        "subjectName": "Subject-Name B",
+                        "subjectCategory": "Subject-Category",
+                        "subjectInformation": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis cum ea quae consequatur obcaecati repellat rem accusantium commodi minima repudiandae hic aperiam tempora",
+                        "subjectLinkInformation": [
+                            {
+                                "information": "Der Link führt zu Goodle",
+                                "url": "wwww.google.com"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekDay": "Dienstag",
+                "date": "19.02",
+                "uniDay": true,
+                "lessons": []
+            },
+            {
+                "weekDay": "Mittwoch",
+                "date": "20.02",
+                "uniDay": false,
+                "lessons": []
+            },
+            {
+                "weekDay": "Donnerstag",
+                "date": "21.02",
+                "uniDay": false,
+                "lessons": []
+            },            
+            {
+                "weekDay": "Freitag",
+                "date": "22.02",
+                "uniDay": true,
+                "lessons": []
+            }
+        ]
+
+    }
+
+}
